@@ -385,15 +385,15 @@ export default function AboutPage() {
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "AboutPage",
-          "name": "About AV Development",
-          "description": "Learn about AV Development - India's premier digital agency",
+          "name": "About GR Development",
+          "description": "Learn about GR Development - India's premier digital agency",
           "mainEntity": {
             "@type": "Organization",
-            "name": "AV Development",
+            "name": "GR Development",
             "foundingDate": "2019",
             "founder": {
               "@type": "Person",
-              "name": "Ankit Roy"
+              "name": "Dev rajput"
             },
             "numberOfEmployees": "50+",
             "areaServed": "India",
