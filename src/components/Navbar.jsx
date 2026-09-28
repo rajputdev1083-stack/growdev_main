@@ -17,7 +17,7 @@ import Link from "next/link";
 
 export function NavbarDemo() {
   const navItems = [
-    { name: "Home", link: "/" }, // ✅ FIXED
+    { name: "ghar", link: "/" }, // ✅ FIXED
     { name: "Services", link: "/service" }, // ✅ FIXED
     { name: "About", link: "/about" },
     { name: "Blog", link: "/blog" },
