@@ -35,22 +35,22 @@ export function Footer() {
             <div className="space-y-2">
   <p className="flex items-center gap-2">
     <span>📧</span>
-    <a href="mailto:contact@avdevelopment.in" className="hover:text-white">
-      contact@avdevelopment.in
+    <a href="mailto:contact@grdevelopment.in" className="hover:text-white">
+      contact@grdevelopment.in
     </a>
   </p>
 
   <p className="flex items-center gap-2">
     <span>💼</span>
-    <a href="mailto:sales@avdevelopment.in" className="hover:text-white">
-      sales@avdevelopment.in
+    <a href="mailto:sales@grdevelopment.in" className="hover:text-white">
+      sales@grdevelopment.in
     </a>
   </p>
 
   <p className="flex items-center gap-2">
     <span>🛠️</span>
-    <a href="mailto:support@avdevelopment.in" className="hover:text-white">
-      support@avdevelopment.in
+    <a href="mailto:support@grdevelopment.in" className="hover:text-white">
+      support@grdevelopment.in
     </a>
   </p>
 </div>
@@ -264,7 +264,7 @@ export function Footer() {
       <div className="border-t border-neutral-800 py-6 text-center text-sm text-neutral-500">
         <div className="max-w-7xl mx-auto px-6">
   <div>
-    © {new Date().getFullYear()} AV Development. All rights reserved. | 
+    © {new Date().getFullYear()} GR Development. All rights reserved. | 
     <Link href="/gst-services" className="hover:text-white ml-1">GST Services</Link> | 
     <Link href="/accounting-ledger" className="hover:text-white ml-1">Accounting</Link> | 
     <Link href="/digital-marketing" className="hover:text-white ml-1">Digital Marketing</Link> | 
