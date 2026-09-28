@@ -5,8 +5,8 @@ import { services, cities } from "@/data/cityData";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "About AV Development | India's Premier Digital Agency",
-  description: "Learn about AV Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
+  title: "About GR Development | India's Premier Digital Agency",
+  description: "Learn about GR Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
   keywords: [
     "about GR Development",
     "digital agency India",
@@ -21,7 +21,7 @@ export const metadata = {
   ].join(", "),
   
   openGraph: {
-    title: "About AV Development - Our Story & Team",
+    title: "About GR Development - Our Story & Team",
     description: "Meet the team behind India's fastest growing digital agency. 5+ years of excellence in web development, marketing & business solutions.",
     images: ['/about-og-image.jpg'],
   },
@@ -37,7 +37,7 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2019", title: "The Beginning", description: "AV Development started with a vision to transform digital landscape in India." },
+    { year: "2019", title: "The Beginning", description: "GR Development started with a vision to transform digital landscape in India." },
     { year: "2020", title: "First 100 Clients", description: "Reached 100+ happy clients within first year of operation." },
     { year: "2021", title: "Team Expansion", description: "Grew to 20+ experts and expanded service offerings." },
     { year: "2022", title: "Pan-India Presence", description: "Started serving clients across 50+ cities in India." },
@@ -80,7 +80,7 @@ export default function AboutPage() {
 
             {/* Description */}
             <p className="font-['Georgia'] text-lg text-neutral-500 leading-relaxed max-w-2xl">
-              AV Development is more than just a digital agency. We're a team of passionate 
+              GR Development is more than just a digital agency. We're a team of passionate 
               creators, developers, and strategists dedicated to helping businesses thrive 
               in the digital age.
             </p>
@@ -115,7 +115,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-6 text-neutral-500 font-['Georgia'] leading-relaxed">
                 <p>
-                  Founded in 2024 by Ankit and Gautam , AV Development started as a small team of 
+                  Founded in 2024 by Ankit and Gautam , GR Development started as a small team of 
                   passionate developers with a simple vision: to make premium digital services 
                   accessible to businesses across India.
                 </p>
@@ -315,7 +315,7 @@ export default function AboutPage() {
             <div className="bg-white p-8 border border-neutral-200">
               <div className="flex text-yellow-400 mb-4">★★★★★</div>
               <p className="text-neutral-600 mb-6 italic">
-                "AV Development transformed our online presence completely. Professional, timely, and results-driven."
+                "GR Development transformed our online presence completely. Professional, timely, and results-driven."
               </p>
               <div>
                 <p className="font-medium text-neutral-900">Rajesh Kumar</p>
@@ -362,7 +362,7 @@ export default function AboutPage() {
             Ready to work with us?
           </h2>
           <p className="text-neutral-500 max-w-2xl mx-auto mb-10">
-            Join 100+ happy clients who've transformed their businesses with AV Development
+            Join 100+ happy clients who've transformed their businesses with GR Development
           </p>
           <Link
             href="/contact"
