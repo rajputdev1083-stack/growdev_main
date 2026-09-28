@@ -19,10 +19,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   // Primary Meta Tags
   title: {
-    default: "AV Development | Web Development, Digital Marketing & GST Services",
-    template: "%s | AV Development - Digital Agency India"
+    default: "GR Development | Web Development, Digital Marketing & GST Services",
+    template: "%s | GR Development - Digital Agency India"
   },
-  description: "AV Development is India's premier digital agency offering Web Development, App Development, Digital Marketing, SEO, GST Services, Accounting & Creative Solutions. 🚀 1000+ Happy Clients | 5+ Years Experience | 24/7 Support",
+  description: "GR Development is India's premier digital agency offering Web Development, App Development, Digital Marketing, SEO, GST Services, Accounting & Creative Solutions. 🚀 1000+ Happy Clients | 5+ Years Experience | 24/7 Support",
   
   // Keywords for SEO
   keywords: [
@@ -75,13 +75,13 @@ export const metadata = {
   ].join(", "),
   
   // Author
-  author: "AV Development Team",
+  author: "GR Development Team",
   
   // Generator
   generator: "Next.js",
   
   // Application Name
-  applicationName: "AV Development",
+  applicationName: "GR Development",
   
   // Viewport and Robots
   viewport: {
@@ -116,22 +116,22 @@ export const metadata = {
   
   // Open Graph for Social Media
   openGraph: {
-    title: "AV Development - India's Leading Digital Agency",
-    description: "Transform your business with AV Development: Web Development, App Development, Digital Marketing, GST & Accounting Services. Free consultation!",
+    title: "GR Development - India's Leading Digital Agency",
+    description: "Transform your business with GR Development: Web Development, App Development, Digital Marketing, GST & Accounting Services. Free consultation!",
     url: 'https://avdevelopment.com',
-    siteName: 'AV Development',
+    siteName: 'GR Development',
     images: [
       {
         url: 'https://avdevelopment.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'AV Development - Digital Agency India',
+        alt: 'GR Development - Digital Agency India',
       },
       {
         url: 'https://avdevelopment.com/og-image-square.jpg',
         width: 600,
         height: 600,
-        alt: 'AV Development Services',
+        alt: 'GR Development Services',
       },
     ],
     locale: 'en_IN',
@@ -144,7 +144,7 @@ export const metadata = {
   // Twitter Cards
   twitter: {
     card: 'summary_large_image',
-    title: 'AV Development | Web Development & Digital Marketing',
+    title: 'GR Development | Web Development & Digital Marketing',
     description: 'Premium digital services in India: Web Development, App Development, SEO, GST & More. 1000+ happy clients!',
     siteId: '@avdevelopment',
     creator: '@avdevelopment',
@@ -213,7 +213,7 @@ export const metadata = {
   // Apple Web App
   appleWebApp: {
     capable: true,
-    title: 'AV Development',
+    title: 'GR Development',
     statusBarStyle: 'black-translucent',
     startupImage: [
       {
@@ -228,8 +228,8 @@ export const metadata = {
     'mobile-web-app-capable': 'yes',
     'apple-mobile-web-app-capable': 'yes',
     'apple-mobile-web-app-status-bar-style': 'black-translucent',
-    'apple-mobile-web-app-title': 'AV Development',
-    'application-name': 'AV Development',
+    'apple-mobile-web-app-title': 'GR Development',
+    'application-name': 'GR Development',
     'msapplication-TileColor': '#000000',
     'msapplication-TileImage': '/ms-icon-144x144.png',
     'msapplication-config': '/browserconfig.xml',
@@ -269,7 +269,7 @@ export default function RootLayout({ children }) {
         <meta name="language" content="English" />
         
         {/* Copyright */}
-        <meta name="copyright" content="AV Development" />
+        <meta name="copyright" content="GR Development" />
         
         {/* Rating */}
         <meta name="rating" content="General" />
@@ -329,7 +329,7 @@ export default function RootLayout({ children }) {
         <meta name="linkedin:owner" content="urn:li:company:avdevelopment" />
         
         {/* RSS Feed */}
-        <link rel="alternate" type="application/rss+xml" title="RSS Feed for AV Development" href="/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed for GR Development" href="/feed.xml" />
         
         {/* Sitemap */}
         <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
@@ -351,7 +351,7 @@ export default function RootLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "Organization",
               "@id": "https://avdevelopment.com/#organization",
-              "name": "AV Development",
+              "name": "GR Development",
               "url": "https://avdevelopment.com",
               "logo": "https://avdevelopment.com/apple-touch-icon.png",
               "sameAs": [
@@ -409,7 +409,7 @@ export default function RootLayout({ children }) {
               "@type": "WebSite",
               "@id": "https://avdevelopment.com/#website",
               "url": "https://avdevelopment.com",
-              "name": "AV Development",
+              "name": "GR Development",
               "description": "India's leading digital agency for web development, digital marketing, and business solutions.",
               "publisher": {
                 "@id": "https://avdevelopment.com/#organization"
@@ -435,7 +435,7 @@ export default function RootLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               "@id": "https://avdevelopment.com/#localbusiness",
-              "name": "AV Development",
+              "name": "GR Development",
               "image": "https://avdevelopment.com/apple-touch-icon.png",
               "priceRange": "₹₹",
               "telephone": "+91-9718659236",

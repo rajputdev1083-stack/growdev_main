@@ -52,7 +52,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ProfessionalService",
-            "name": `AV Development - ${cityName}`,
+            "name": `GR Development - ${cityName}`,
             "description": `Web development, app development, and digital marketing services in ${cityName}, ${stateName}`,
             "address": {
               "@type": "PostalAddress",
@@ -94,7 +94,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
                 <span className="block font-medium italic text-neutral-500 text-3xl mt-2">Custom Websites • Apps • AI Solutions</span>
               </h1>
               <p className="text-lg text-neutral-500 mb-8">
-                AV Development provides professional web development, app development, and digital marketing 
+                GRA%$3w2 Development provides professional web development, app development, and digital marketing 
                 services in {cityName}, {stateName}. We help local businesses establish powerful online presence 
                 and reach more customers.
               </p>

@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Wikipedia Page Creation | AV Development - Biography, Company, Celebrity Pages India",
+  title: "Wikipedia Page Creation | GR Development - Biography, Company, Celebrity Pages India",
   description: "Professional Wikipedia page creation for individuals, brands, and celebrities. Notability assessment, content drafting, citation sourcing, and page approval. Starting from ₹25,000.",
   keywords: "Wikipedia page creation India, Wikipedia writer, Wikipedia consultant, Wikipedia page creator, biography page, company Wikipedia page, celebrity Wikipedia page",
   openGraph: {

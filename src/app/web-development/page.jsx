@@ -4,7 +4,7 @@ import Image from "next/image";
  import CityLinks from "@/utlls/CityLinks";
  
 export const metadata = {
-  title: "Web Development Services | AV Development - React, Node.js, PHP, Python",
+  title: "Web Development Services | GR Development - React, Node.js, PHP, Python",
   description: "Professional web development services using React, Next.js, Node.js, PHP Laravel, Python Django, and more. Custom websites, e-commerce, web applications starting from ₹15,000.",
   keywords: [
     "web development India",
@@ -627,7 +627,7 @@ export default function WebDevelopmentPage() {
           "serviceType": "Web Development",
           "provider": {
             "@type": "Organization",
-            "name": "AV Development",
+            "name": "GR Development",
             "url": "https://avdevelopment.com"
           },
           "offers": {

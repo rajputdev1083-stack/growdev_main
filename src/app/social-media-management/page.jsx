@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Social Media Management | AV Development - Facebook, Instagram, LinkedIn",
+  title: "Social Media Management | GR Development - Facebook, Instagram, LinkedIn",
   description: "Professional social media management services. Content creation, posting, engagement, and growth strategies for Facebook, Instagram, LinkedIn, and more. Starting from ₹12,000/month.",
   keywords: "social media management, social media marketing, Instagram management, Facebook management, LinkedIn marketing, content creation, social media agency",
   openGraph: {

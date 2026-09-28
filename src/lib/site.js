@@ -1,7 +1,7 @@
 export const SITE_URL =
 process.env.NEXT_PUBLIC_SITE_URL || "https://www.avdevelopment.in";
 
-export const SITE_NAME = "AV Development";
+export const SITE_NAME = "GR Development";
 
 export const CONTACT_PHONE = "+919718659236";
 

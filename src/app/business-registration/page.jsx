@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Business Registration | AV Development - Company Registration, MSME, LLP, Pvt Ltd India",
+  title: "Business Registration | GR Development - Company Registration, MSME, LLP, Pvt Ltd India",
   description: "Complete business registration services in India. Pvt Ltd, LLP, Partnership, MSME, GST, Trademark. Starting from ₹1,499.",
   keywords: "company registration India, Pvt Ltd registration, LLP registration, MSME registration, partnership firm, trademark registration India",
   openGraph: {

@@ -20,8 +20,8 @@ export function Footer() {
 
         {/* Brand */}
         <div>
-          <h2 className="text-white text-xl font-bold">AV Development</h2>
-          <p className="mt-4 text-sm">
+          <h2 className="text-white text-xl font-bold">GR Development</h2>
+          <p className="mt-4 text-sm">       
             We build high-performance software and scale businesses with digital marketing & accounting solutions.
           </p>
 

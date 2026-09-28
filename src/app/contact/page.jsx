@@ -4,8 +4,8 @@ import { services } from "@/data/cityData";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Contact AV Development | Get Free Digital Consultation",
-  description: "Contact AV Development for web development, digital marketing, GST services & more. Call +91 9718659236, email ankitroy5575@gmail.com, or connect on WhatsApp for instant support.",
+  title: "Contact GR Development | Get Free Digital Consultation",
+  description: "Contact GR Development for web development, digital marketing, GST services & more. Call +91 9718659236, email ankitroy5575@gmail.com, or connect on WhatsApp for instant support.",
   keywords: [
     "contact digital agency",
     "web development inquiry",
@@ -13,13 +13,13 @@ export const metadata = {
     "GST services contact",
     "WhatsApp digital services",
     "IT company contact India",
-    "AV Development contact",
+    "GR Development contact",
     "website development quote",
     "SEO services inquiry"
   ].join(", "),
   
   openGraph: {
-    title: "Contact AV Development - Let's Discuss Your Project",
+    title: "Contact GR Development - Let's Discuss Your Project",
     description: "Ready to transform your digital presence? Contact us for a free consultation.",
     images: ['/contact-og-image.jpg'],
   },
@@ -431,11 +431,11 @@ export default function ContactPage() {
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "ContactPage",
-          "name": "Contact AV Development",
-          "description": "Contact page for AV Development digital agency",
+          "name": "Contact GR Development",
+          "description": "Contact page for GR Development digital agency",
           "mainEntity": {
             "@type": "Organization",
-            "name": "AV Development",
+            "name": "GR Development",
             "telephone": "+919718659236",
             "email": "ankitroy5575@gmail.com",
             "contactPoint": {

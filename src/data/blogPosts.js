@@ -1,5 +1,5 @@
 /**
- * Blog posts for AV Development. Add new posts here or replace with CMS/API.
+ * Blog posts for GR Development. Add new posts here or replace with CMS/API.
  * Each post needs: slug, title, excerpt, publishedAt, content (HTML).
  */
 export const blogPosts = [

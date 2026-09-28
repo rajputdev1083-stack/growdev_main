@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "AI Content Creation Services | AV Development - Blog Writing, Copy, SEO Content India",
+  title: "AI Content Creation Services | GR Development - Blog Writing, Copy, SEO Content India",
   description: "Professional AI-powered content creation for Indian businesses. Blog posts, website copy, social media content, product descriptions, and SEO articles. Starting from ₹999/month.",
   keywords: "AI content writing, content creation India, blog writing service, SEO content writer, copywriting agency, AI copywriting, content marketing India, Hindi content writing",
   openGraph: {

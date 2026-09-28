@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Google Ads Management | AV Development - PPC Campaigns That Convert",
+  title: "Google Ads Management | GR Development - PPC Campaigns That Convert",
   description: "Professional Google Ads management. Search, Display, Shopping, and Video campaigns. Maximize ROI with data-driven PPC strategies. Starting from ₹15,000/month.",
   keywords: "Google Ads, PPC management, Google AdWords, search ads, display advertising, shopping ads, YouTube ads, pay per click India",
   openGraph: {

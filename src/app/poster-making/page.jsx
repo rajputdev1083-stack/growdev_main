@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Poster Making & Graphic Design | AV Development - Social Media Posters, Business Flyers India",
+  title: "Poster Making & Graphic Design | GR Development - Social Media Posters, Business Flyers India",
   description: "Professional poster design for Indian businesses. Social media posts, business flyers, event posters, festival greetings, and marketing collateral. Starting from ₹199/poster.",
   keywords: "poster design India, graphic design services, social media posters, business flyers, event posters, festival posters, Diwali poster design, marketing collateral India",
   openGraph: {

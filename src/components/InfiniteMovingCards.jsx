@@ -152,7 +152,7 @@ export default function TestimonialsSection() {
 
 const testimonialsRow1 = [
   {
-    quote: "AV Development ne hamare business ka poora digital presence badal diya. Website launch ke baad 3x zyada inquiries aane lagi. Bahut professional team hai.",
+    quote: "GR Development ne hamare business ka poora digital presence badal diya. Website launch ke baad 3x zyada inquiries aane lagi. Bahut professional team hai.",
     name: "Rajesh Kumar",
     title: "Founder, JMart Delhi",
     rating: 5,
@@ -174,7 +174,7 @@ const testimonialsRow1 = [
     verified: true,
   },
   {
-    quote: "Meta Ads campaign ke baad hamare leads double ho gaye pehle 2 mahine mein. ROI ekdum solid raha. AV Development ki digital marketing team best hai.",
+    quote: "Meta Ads campaign ke baad hamare leads double ho gaye pehle 2 mahine mein. ROI ekdum solid raha.  pment ki digital marketing team best hai.",
     name: "Naveen Kapoor",
     title: "Director, NK Construction",
     rating: 5,
@@ -221,7 +221,7 @@ const testimonialsRow2 = [
     verified: true,
   },
   {
-    quote: "SEO results ne hamare organic traffic ko 2x kar diya 4 mahine mein. Ab hum apne competitors se aage hain Google pe. Shukriya AV Development!",
+    quote: "SEO results ne hamare organic traffic ko 2x kar diya 4 mahine mein. Ab hum apne competitors se aage hain Google pe. Shukriya GR Development!",
     name: "Vikram Singh",
     title: "Owner, VS Traders",
     rating: 5,

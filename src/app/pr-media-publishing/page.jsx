@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "PR & Media Publishing | AV Development - Get Featured on News Websites India",
+  title: "PR & Media Publishing | GR Development - Get Featured on News Websites India",
   description: "Professional PR and media publishing services in India. Get featured on top news websites, business magazines, and industry portals. Starting from ₹6,400 per release.",
   keywords: "PR agency India, media publishing, news website feature, press release distribution, online PR, brand coverage India, startup PR",
   openGraph: {

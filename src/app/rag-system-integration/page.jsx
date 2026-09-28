@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "RAG System Integration | AV Development - AI-Powered Knowledge Systems",
+  title: "RAG System Integration | GR Development - AI-Powered Knowledge Systems",
   description: "Custom RAG (Retrieval-Augmented Generation) systems for businesses. Integrate AI with your data for intelligent chatbots, document search, and knowledge management.",
   keywords: "RAG system, Retrieval Augmented Generation, AI integration, custom chatbot, document Q&A, knowledge base AI, LLM integration, OpenAI, LlamaIndex, LangChain",
   openGraph: {

@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Google Knowledge Panel Setup | AV Development - Get Knowledge Panel for Person, Brand India",
+  title: "Google Knowledge Panel Setup | GR Development - Get Knowledge Panel for Person, Brand India",
   description: "Professional Google Knowledge Panel setup for individuals, celebrities, brands. Wikipedia verification, structured data, panel optimization. Starting from ₹15,000.",
   keywords: "Google Knowledge Panel, Knowledge Panel setup, Google Knowledge Graph, Wikipedia panel, celebrity knowledge panel, brand knowledge panel India",
   openGraph: {

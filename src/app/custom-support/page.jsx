@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Custom Support Services | AV Development - Business Support, Data Entry, Virtual Assistant India",
+  title: "Custom Support Services | GR Development - Business Support, Data Entry, Virtual Assistant India",
   description: "Professional custom support for Indian businesses. Data entry, virtual assistant, back office support, lead generation. Starting from ₹199/hour.",
   keywords: "custom support India, virtual assistant, data entry, back office support, lead generation, business support services",
   openGraph: {
