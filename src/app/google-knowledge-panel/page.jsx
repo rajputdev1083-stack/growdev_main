@@ -118,7 +118,7 @@ const faqs = [
   { q: "Is it guaranteed?", a: "Google decides, but we follow all guidelines to maximize chances." }
 ];
 
-const contactNumber = "+919718659236";
+const contactNumber = "+918810688975";
 
 export default function GoogleKnowledgePanelPage() {
   return (

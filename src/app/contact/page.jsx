@@ -5,7 +5,7 @@ import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
   title: "Contact GR Development | Get Free Digital Consultation",
-  description: "Contact GR Development for web development, digital marketing, GST services & more. Call +91 8810688975, email rajputdev1083@gmail.com, or connect on WhatsApp for instant support.",
+  description: "Contact GR Development for web development, digital marketing, GST services & more. Call +91 8810688975, email rajputdev@gmail.com, or connect on WhatsApp for instant support.",
   keywords: [
     "contact digital agency",
     "web development inquiry",
@@ -93,12 +93,12 @@ export default function ContactPage() {
                   <div className="text-3xl">📞</div>
                   <div>
                     <h3 className="font-medium text-neutral-900 mb-1">Call Us</h3>
-                    <a href="tel:+919718659236" className="text-neutral-500 hover:text-neutral-800 text-lg">
-                      +91 9718659236
+                    <a href="tel:+918810688975" className="text-neutral-500 hover:text-neutral-800 text-lg">
+                      +91 8810688975
                     </a>
                     <br/>
-                    <a href="tel:+9718986671" className="text-neutral-500 hover:text-neutral-800 text-lg">
-                      +91 9718986671
+                    <a href="tel:+919220750915" className="text-neutral-500 hover:text-neutral-800 text-lg">
+                      +91 9220750915
                     </a>
                     <p className="text-sm text-neutral-400 mt-1">Mon-Sat, 9AM-7PM</p>
                       <p>MSME Registered ✔</p>
@@ -139,7 +139,7 @@ export default function ContactPage() {
                     <h3 className="font-medium text-neutral-900 mb-1">WhatsApp</h3>
                     <p className="text-neutral-500 mb-3">Instant replies on WhatsApp</p>
                     <a 
-                      href="https://wa.me/919718986671?text=Hi%20AV%20Development%2C%20I'm%20interested%20in%20your%20digital%20services.%20Can%20we%20discuss%3F" 
+                      href="https://wa.me/918810688975?text=Hi%20AV%20Development%2C%20I'm%20interested%20in%20your%20digital%20services.%20Can%20we%20discuss%3F" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 bg-[#25D366] text-white px-6 py-3 font-medium hover:bg-[#20B859] transition"

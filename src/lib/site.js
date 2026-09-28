@@ -3,7 +3,7 @@ process.env.NEXT_PUBLIC_SITE_URL || "https://www.avdevelopment.in";
 
 export const SITE_NAME = "GR Development";
 
-export const CONTACT_PHONE = "+919718659236";
+export const CONTACT_PHONE = "+918810688975";
 
 export const CONTACT_EMAIL = "info@avdevelopment.in";
 

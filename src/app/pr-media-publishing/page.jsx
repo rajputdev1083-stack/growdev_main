@@ -118,7 +118,7 @@ const faqs = [
   { q: "What's the difference between PR and ads?", a: "PR is earned media (more trusted), ads are paid. Both have value." }
 ];
 
-const contactNumber = "+919718659236";
+const contactNumber = "+918810688975";
 
 export default function PRMediaPublishingPage() {
   return (

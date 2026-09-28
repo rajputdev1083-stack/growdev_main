@@ -365,7 +365,7 @@ export default function RootLayout({ children }) {
               "contactPoint": [
                 {
                   "@type": "ContactPoint",
-                  "telephone": "+91-9718659236",
+                  "telephone": "+91-8810688975",
                   "contactType": "customer service",
                   "areaServed": "IN",
                   "availableLanguage": ["English", "Hindi"]
@@ -386,7 +386,7 @@ export default function RootLayout({ children }) {
               "founders": [
                 {
                   "@type": "Person",
-                  "name": "Ankit Roy"
+                  "name": "Dev rajput"
                 }
               ],
               "description": "Premier digital agency in India offering web development, app development, digital marketing, and business services.",
@@ -438,8 +438,8 @@ export default function RootLayout({ children }) {
               "name": "GR Development",
               "image": "https://avdevelopment.com/apple-touch-icon.png",
               "priceRange": "₹₹",
-              "telephone": "+91-9718659236",
-              "email": "ankitroy5575@gmail.com",
+              "telephone": "+91-8810688975",
+              "email": "rajputdev1083@gmail.com",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Delhi",
