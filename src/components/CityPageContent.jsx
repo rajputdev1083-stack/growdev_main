@@ -64,8 +64,8 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
               "@type": "City",
               "name": cityName
             },
-            "telephone": "+919718659236",
-            "email": "ankitroy5575@gmail.com",
+            "telephone": "+918810688975",
+            "email": "rajputdev1083@gmail.com",
             "sameAs": [
               "https://www.linkedin.com/company/avdevelopment",
               "https://www.instagram.com/avdevelopment"

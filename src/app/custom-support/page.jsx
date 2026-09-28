@@ -98,7 +98,7 @@ const faqs = [
   { q: "Is there a trial?", a: "Yes! 2 hours trial at ₹199 only." }
 ];
 
-const contactNumber = "+919718659236";
+const contactNumber = "+918810688975";
 
 export default function CustomSupportPage() {
   return (

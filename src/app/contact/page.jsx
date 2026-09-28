@@ -5,7 +5,7 @@ import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
   title: "Contact GR Development | Get Free Digital Consultation",
-  description: "Contact GR Development for web development, digital marketing, GST services & more. Call +91 9718659236, email ankitroy5575@gmail.com, or connect on WhatsApp for instant support.",
+  description: "Contact GR Development for web development, digital marketing, GST services & more. Call +91 8810688975, email rajputdev1083@gmail.com, or connect on WhatsApp for instant support.",
   keywords: [
     "contact digital agency",
     "web development inquiry",
@@ -437,10 +437,10 @@ export default function ContactPage() {
             "@type": "Organization",
             "name": "GR Development",
             "telephone": "+919718659236",
-            "email": "ankitroy5575@gmail.com",
+            "email": "rajputdev1083@gmail.com",
             "contactPoint": {
               "@type": "ContactPoint",
-              "telephone": "+919718659236",
+              "telephone": "+918810688975",
               "contactType": "customer service",
               "availableLanguage": ["English", "Hindi"]
             }

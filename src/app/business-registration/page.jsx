@@ -120,7 +120,7 @@ const faqs = [
   { q: "What about GST?", a: "Included in all packages except MSME." }
 ];
 
-const contactNumber = "+919718659236";
+const contactNumber = "+918810688975";
 
 export default function BusinessRegistrationPage() {
   return (

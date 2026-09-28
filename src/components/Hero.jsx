@@ -43,7 +43,7 @@ const SCHEMA = {
     addressLocality: "Delhi",
     addressCountry: "IN",
   },
-  sameAs: ["https://www.linkedin.com/in/ankit5575/"],
+  sameAs: ["https://www.linkedin.com/in/devender-singh20//"],
   priceRange: "$$",
   openingHours: "Mo-Su 00:00-00:00",
   areaServed: [
@@ -84,8 +84,8 @@ function WhatsAppIcon({ className }) {
 // ─── Component ───────────────────────────────────────────────────────────────
 
 export function HeroSection() {
-  const phone = "+919718659236";
-  const waLink = "https://wa.me/919718659236";
+  const phone = "+918810688975";
+  const waLink = "https://wa.me/918810688975";
 
   return (
     <>
@@ -116,8 +116,8 @@ export function HeroSection() {
         <meta name="geo.placename" content="Delhi" />
         <meta name="geo.position"  content="28.6139;77.2090" />
         <meta name="ICBM"          content="28.6139, 77.2090" />
-        <meta name="author"        content="Ankit" />
-        <link rel="me" href="https://www.linkedin.com/in/ankit5575/" />
+        <meta name="author"        content="Dev" />
+        <link rel="me" href="https://www.linkedin.com/in/devender-singh20/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(SCHEMA) }}

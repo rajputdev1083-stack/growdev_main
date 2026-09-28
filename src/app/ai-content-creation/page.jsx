@@ -543,8 +543,8 @@ export default function AIContentCreationPage() {
             </Link> */}
           </div>
           <div className="mt-6 flex flex-wrap justify-center gap-4 text-sm text-neutral-500">
-            <span>📞 Call: +91 97186 59236</span>
-            <span>📧 ankitroy5575@gmail.com</span>
+            <span>📞 Call: +91 8810688975</span>
+            <span>📧 rajputdev1083@gmail.com</span>
           </div>
         </div>
       </section>

@@ -8,13 +8,13 @@ export const metadata = {
   title: "About AV Development | India's Premier Digital Agency",
   description: "Learn about AV Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
   keywords: [
-    "about AV Development",
+    "about GR Development",
     "digital agency India",
     "web development company history",
     "best digital agency team",
     "IT company founders",
-    "Ankit Roy digital agency",
-    "AV Development team",
+    "Dev Rajput digital agency",
+    "GR Development team",
     "digital marketing experts India",
     "web development professionals",
     "GST consultants team"
