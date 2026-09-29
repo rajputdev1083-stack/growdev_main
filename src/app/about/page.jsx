@@ -31,9 +31,8 @@ export default function AboutPage() {
   
   const teamMembers = [
     { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
-    { name: "Ankit Roy", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/ankitsir.png" },
-    { name: "Rahul Verma", role: "Lead Developer", expertise: "Web & App Development", image: "/team/rahul-verma.jpg" },
-    { name: "Neha Gupta", role: "Creative Director", expertise: "UI/UX & Branding", image: "/team/neha-gupta.jpg" },
+    { name: "Dhiraj Singh", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
+    { name: "Ankit Roy", role: "Lead Developer", expertise: "Web & App Development", image:  "/team/ankitsir.png" },
   ];
 
   const milestones = [
