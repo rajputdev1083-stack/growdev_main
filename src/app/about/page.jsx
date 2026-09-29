@@ -30,8 +30,8 @@ export const metadata = {
 export default function AboutPage() {
   
   const teamMembers = [
-    { name: "Ankit Roy", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/ankit-roy.jpg" },
-    { name: "Priya Sharma", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/priya-sharma.jpg" },
+    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
+    { name: "Ankit Roy", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/ankitsir.png" },
     { name: "Rahul Verma", role: "Lead Developer", expertise: "Web & App Development", image: "/team/rahul-verma.jpg" },
     { name: "Neha Gupta", role: "Creative Director", expertise: "UI/UX & Branding", image: "/team/neha-gupta.jpg" },
   ];
