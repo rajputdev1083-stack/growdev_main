@@ -52,7 +52,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ProfessionalService",
-            "name": `GR Development - ${cityName}`,
+            "name": `Grow Development - ${cityName}`,
             "description": `Web development, app development, and digital marketing services in ${cityName}, ${stateName}`,
             "address": {
               "@type": "PostalAddress",

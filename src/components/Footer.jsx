@@ -20,7 +20,7 @@ export function Footer() {
 
         {/* Brand */}
         <div>
-          <h2 className="text-white text-xl font-bold">GR Development</h2>
+          <h2 className="text-white text-xl font-bold">Grow Development</h2>
           <p className="mt-4 text-sm">       
             We build high-performance software and scale businesses with digital marketing & accounting solutions.
           </p>
@@ -264,7 +264,7 @@ export function Footer() {
       <div className="border-t border-neutral-800 py-6 text-center text-sm text-neutral-500">
         <div className="max-w-7xl mx-auto px-6">
   <div>
-    © {new Date().getFullYear()} GR Development. All rights reserved. | 
+    © {new Date().getFullYear()} Grow Development. All rights reserved. | 
     <Link href="/gst-services" className="hover:text-white ml-1">GST Services</Link> | 
     <Link href="/accounting-ledger" className="hover:text-white ml-1">Accounting</Link> | 
     <Link href="/digital-marketing" className="hover:text-white ml-1">Digital Marketing</Link> | 

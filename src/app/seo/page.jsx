@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "SEO Optimization | GR Development - Rank #1 on Google",
+  title: "SEO Optimization | Grow Development - Rank #1 on Google",
   description: "Professional SEO services to improve your Google rankings. On-page SEO, technical SEO, local SEO, and link building. Starting from ₹10,000/month.",
   keywords: "SEO services India, Google ranking, on-page SEO, technical SEO, local SEO, link building, SEO agency, search engine optimization",
   openGraph: {

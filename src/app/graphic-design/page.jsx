@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Graphic Design Services | GR Development - Logo, Branding, Marketing Collateral India",
+  title: "Graphic Design Services | Grow Development - Logo, Branding, Marketing Collateral India",
   description: "Professional graphic design for Indian businesses. Logo design, branding, marketing materials, social media graphics, print design, and complete brand identity. Starting from ₹499.",
   keywords: "graphic design India, logo design, branding agency, marketing collateral, print design, social media graphics, brand identity, packaging design India",
   openGraph: {

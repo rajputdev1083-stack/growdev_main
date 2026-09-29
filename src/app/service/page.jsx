@@ -93,7 +93,7 @@ export default function ServicesPage() {
             className="max-w-3xl"
           >
             <span className="text-sm font-light tracking-[0.3em] text-neutral-400 uppercase">
-              GR Development
+             Grow Development
             </span>
             <h1 className="font-['Inter'] text-6xl md:text-7xl lg:text-8xl font-light tracking-tight text-neutral-900 mt-8 leading-[1.1]">
               Services

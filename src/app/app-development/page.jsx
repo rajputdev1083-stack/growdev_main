@@ -4,7 +4,7 @@ import Image from "next/image";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "App Development Services | GR Development - iOS, Android, Cross-Platform",
+  title: "App Development Services | Grow Development - iOS, Android, Cross-Platform",
   description: "Professional app development services using React Native, Flutter, Swift, Kotlin. Native iOS, Android, and cross-platform apps starting from ₹15,000.",
   keywords: [
     "app development India",
@@ -772,7 +772,7 @@ export default function AppDevelopmentPage() {
           "serviceType": "App Development",
           "provider": {
             "@type": "Organization",
-            "name": "GR Development",
+            "name": "Grow Development",
             "url": "https://avdevelopment.com"
           },
           "offers": {

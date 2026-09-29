@@ -29,7 +29,7 @@ export default function CityServices({ city, services }) {
           Services in {city.name}
         </h1>
         <p className="text-gray-600 mt-3">
-          GR Development provides top services in {city.name}.
+          Grow Development provides top services in {city.name}.
         </p>
       </div>
 

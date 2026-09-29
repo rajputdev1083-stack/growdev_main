@@ -15,7 +15,7 @@ export async function generateMetadata({ params }) {
 
   const canonical = `${SITE_URL}/blog/${slug}`;
   const description = post.excerpt || post.description || "Read our latest insights on digital marketing, web development, and business growth.";
-  const title = `${post.title} | GR Development Blog`;
+  const title = `${post.title} | Grow Development Blog`;
 
   return {
     title,
@@ -25,11 +25,11 @@ export async function generateMetadata({ params }) {
       title: post.title,
       description,
       url: canonical,
-      siteName: "GR Development",
+      siteName: "Grow Development",
       type: "article",
       publishedTime: post.publishedAt,
       modifiedTime: post.updatedAt || post.publishedAt,
-      authors: ["GR Development Team"],
+      authors: ["Grow Development Team"],
       locale: "en_IN",
       images: post.ogImage ? [
         {
@@ -43,7 +43,7 @@ export async function generateMetadata({ params }) {
           url: `${SITE_URL}/og-default.jpg`,
           width: 1200,
           height: 630,
-          alt: "GR Development",
+          alt: "Grow Development",
         }
       ],
     },
@@ -88,12 +88,12 @@ export default async function BlogPostPage({ params }) {
     dateModified: post.updatedAt || post.publishedAt,
     author: {
       "@type": "Person",
-      name: post.author || "GR Development Team",
+      name: post.author || "Grow Development Team",
       url: SITE_URL,
     },
     publisher: {
       "@type": "Organization",
-      name: "GR Development",
+      name: "Grow Development",
       url: SITE_URL,
       logo: {
         "@type": "ImageObject",

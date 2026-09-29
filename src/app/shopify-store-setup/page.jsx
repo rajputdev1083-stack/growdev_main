@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Shopify Store Setup | GR Development - E-commerce Solutions",
+  title: "Shopify Store Setup | Grow Development - E-commerce Solutions",
   description: "Professional Shopify store setup, customization, and optimization. Start your e-commerce journey with custom themes, apps, and marketing integration from ₹5,000.",
   keywords: "Shopify store setup, Shopify development, e-commerce store, Shopify themes, Shopify apps, dropshipping store, Shopify pricing India",
   openGraph: {

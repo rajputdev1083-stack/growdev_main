@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Video Editing | GR Development - Professional Video Production",
+  title: "Video Editing | Grow Development - Professional Video Production",
   description: "Professional video editing services. YouTube videos, Reels, ads, testimonials, and social media content. Starting from ₹5,000.",
   keywords: "video editing, video production, YouTube editing, Reels editing, ad editing",
 };

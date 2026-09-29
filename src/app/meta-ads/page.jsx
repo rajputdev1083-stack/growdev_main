@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Meta Ads Management | GR Development - Facebook & Instagram Advertising",
+  title: "Meta Ads Management | Grow Development - Facebook & Instagram Advertising",
   description: "Professional Meta Ads management for Facebook and Instagram. Drive sales, leads, and brand awareness with targeted social media campaigns. Starting from ₹15,000/month.",
   keywords: "Facebook Ads, Instagram Ads, Meta advertising, social media ads, Facebook marketing, Instagram promotion, PPC social media",
   openGraph: {

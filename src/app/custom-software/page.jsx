@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Custom Software Development | GR Development - Tailored Business Solutions",
+  title: "Custom Software Development | Grow Development - Tailored Business Solutions",
   description: "Bespoke software solutions for your unique business needs. CRM, ERP, inventory systems, dashboards, and automation tools. Custom quote based on requirements.",
   keywords: "custom software development, business software, CRM development, ERP system, inventory management, custom dashboard, workflow automation, enterprise software",
   openGraph: {

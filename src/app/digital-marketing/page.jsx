@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Digital Marketing Services | GR Development - 360° Marketing Solutions",
+  title: "Digital Marketing Services | Grow Development - 360° Marketing Solutions",
   description: "Complete digital marketing services: SEO, Google Ads, Meta Ads, Social Media, Content Marketing, and Email Marketing. Data-driven strategies for growth. Starting from ₹25,000/month.",
   keywords: "digital marketing agency, full service digital marketing, online marketing, internet marketing, 360 degree marketing, integrated marketing",
   openGraph: {

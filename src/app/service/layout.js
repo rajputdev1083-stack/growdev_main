@@ -1,14 +1,14 @@
 import { SITE_URL } from "@/lib/site";
 
 export const metadata = {
-  title: "Services | Web Development, Digital Marketing & GST - GR Development",
+  title: "Services | Web Development, Digital Marketing & GST - Grow Development",
   description:
     "Web development, app development, SEO, Google Ads, GST, accounting & creative services across India. 25+ services. Get a quote.",
   openGraph: {
-    title: "Services - GR Development",
+    title: "Services - Grow Development",
     description: "Web development, digital marketing, GST & creative services. 40+ cities.",
     url: `${SITE_URL}/service`,
-    siteName: "GR Development",
+    siteName: "Grow Development",
     type: "website",
     locale: "en_IN",
   },

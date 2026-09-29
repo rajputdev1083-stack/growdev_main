@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "WordPress Development | GR Development - Custom Themes & Plugins",
+  title: "WordPress Development | Grow Development - Custom Themes & Plugins",
   description: "Professional WordPress development services. Custom themes, plugins, WooCommerce stores, and website optimization. Starting from ₹4,000.",
   keywords: "WordPress development, custom WordPress themes, WordPress plugins, WooCommerce development, WordPress website India, WordPress developer",
   openGraph: {

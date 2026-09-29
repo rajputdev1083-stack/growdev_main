@@ -5,7 +5,7 @@ import { SITE_URL, SITE_NAME, CONTACT_PHONE, CONTACT_EMAIL } from "@/lib/site";
 import Script from "next/script";
 
 export const metadata = {
-  title: "Accounting & Ledger Services | GR Development - Bookkeeping, Tally, GST Reconciliation India",
+  title: "Accounting & Ledger Services | Grow Development - Bookkeeping, Tally, GST Reconciliation India",
   description: "Professional accounting services for Indian businesses. Bookkeeping, ledger maintenance, Tally management, GST reconciliation, tax planning, financial reporting. Starting from ₹999/month. PAN India service with local experts.",
   keywords: "accounting services India, bookkeeping services, ledger maintenance, Tally management, GST reconciliation, financial statements India, tax planning India, payroll processing India, balance sheet preparation, profit and loss account, chartered accountant India, accounting firms India, online accounting services, virtual accountant India, small business accounting, startup accounting services, ecommerce accounting, GST filing services, income tax return filing, TDS return filing, business accounting software, Tally ERP 9 experts, Tally Prime services, cloud accounting India, outsourced accounting, bookkeeper India, accounts payable, accounts receivable, monthly accounting services, annual accounts closure, audit support services, financial reporting India",
   openGraph: {
@@ -18,7 +18,7 @@ export const metadata = {
         url: `${SITE_URL}/og-images/accounting-ledger.jpg`,
         width: 1200,
         height: 630,
-        alt: "Accounting & Ledger Services - GR Development",
+        alt: "Accounting & Ledger Services - Grow Development",
       },
     ],
     locale: 'en_IN',
@@ -26,7 +26,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Accounting & Ledger Services | GR Development",
+    title: "Accounting & Ledger Services | Grow Development",
     description: "Professional bookkeeping, Tally management & GST reconciliation. Starting ₹999/month.",
     images: [`${SITE_URL}/twitter-images/accounting-ledger.jpg`],
   },

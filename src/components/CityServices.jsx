@@ -45,9 +45,9 @@ export default function CityPage({ city }) {
     <>
       {/* SEO Headers */}
       <header className="sr-only">
-        <h1>Best Digital Services in {cityName} - GR Development</h1>
+        <h1>Best Digital Services in {cityName} - Grow Development</h1>
         <h2>Professional Web Development, Digital Marketing & Business Solutions in {cityName}</h2>
-        <p>GR Development offers premium {services.length}+ digital services in {cityName} including web development, app development, SEO, Google Ads, GST services, and more. Trusted by 1000+ clients across {region} India.</p>
+        <p>Grow Development offers premium {services.length}+ digital services in {cityName} including web development, app development, SEO, Google Ads, GST services, and more. Trusted by 1000+ clients across {region} India.</p>
       </header>
 
       {/* Hero Section with City Image */}

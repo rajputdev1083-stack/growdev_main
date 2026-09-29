@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "GST Services | GR Development - GST Registration, Filing, Returns India",
+  title: "GST Services | Grow Development - GST Registration, Filing, Returns India",
   description: "Professional GST services for Indian businesses. GST registration, monthly/quarterly filing, returns, and compliance. Starting from ₹999.",
   keywords: "GST registration, GST filing, GST returns, GST compliance, tax filing India, GST consultant, business registration India",
   openGraph: {

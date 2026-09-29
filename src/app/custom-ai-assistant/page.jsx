@@ -3,7 +3,7 @@ import Link from "next/link";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "Custom AI Assistant | GR Development - ChatGPT Clone, Customer Support Bot, AI Automation India",
+  title: "Custom AI Assistant | Grow Development - ChatGPT Clone, Customer Support Bot, AI Automation India",
   description: "Custom AI assistant development for Indian businesses. ChatGPT clone, customer support bot, WhatsApp AI integration, lead generation automation. Starting from ₹25,000.",
   keywords: "custom AI assistant, ChatGPT clone India, AI chatbot development, customer support bot, WhatsApp AI bot, AI automation India",
   openGraph: {

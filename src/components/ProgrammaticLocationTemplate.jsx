@@ -26,7 +26,7 @@ export default function ProgrammaticLocationTemplate({
         </h1>
         <p className="text-lg text-gray-700">
           Get result-focused {service.name.toLowerCase()} services in {location.name}, {state.name}.
-          GR Development helps local businesses with strategy, execution, and ongoing support.
+          Grow Development helps local businesses with strategy, execution, and ongoing support.
         </p>
       </header>
 
@@ -53,7 +53,7 @@ export default function ProgrammaticLocationTemplate({
 
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">
-          Why choose GR Development for {service.name} in {location.name}?
+          Why choose Grow Development for {service.name} in {location.name}?
         </h2>
         <p className="text-gray-700 leading-7">
           Our team combines domain expertise and operational speed to help businesses in {location.name}{" "}

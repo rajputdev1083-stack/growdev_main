@@ -152,7 +152,7 @@ export default function TestimonialsSection() {
 
 const testimonialsRow1 = [
   {
-    quote: "GR Development ne hamare business ka poora digital presence badal diya. Website launch ke baad 3x zyada inquiries aane lagi. Bahut professional team hai.",
+    quote: "Grow Development ne hamare business ka poora digital presence badal diya. Website launch ke baad 3x zyada inquiries aane lagi. Bahut professional team hai.",
     name: "Rajesh Kumar",
     title: "Founder, JMart Delhi",
     rating: 5,
