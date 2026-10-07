@@ -1,11 +1,11 @@
 export const SITE_URL =
-process.env.NEXT_PUBLIC_SITE_URL || "https://www.avdevelopment.in";
+process.env.NEXT_PUBLIC_SITE_URL || "https://www.growdevelopment.in";
 
 export const SITE_NAME = "Grow Development";
 
 export const CONTACT_PHONE = "+918810688975";
 
-export const CONTACT_EMAIL = "info@avdevelopment.in";
+export const CONTACT_EMAIL = "info@growdevelopment.in";
 
 export const staticPages = [
 { path: "", priority: 1, changeFrequency: "daily" },

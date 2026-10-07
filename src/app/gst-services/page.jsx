@@ -385,7 +385,7 @@ export default function GSTServicesPage() {
               Call Us
             </Link>
           </div>
-          <p className="text-xs text-neutral-700 mt-4">📞 +91 97186 59236 • 📧 gst@avdevelopment.com</p>
+          <p className="text-xs text-neutral-700 mt-4">📞 +91 97186 59236 • 📧 gst@growdevelopment.com</p>
         </div>
       </section>
 

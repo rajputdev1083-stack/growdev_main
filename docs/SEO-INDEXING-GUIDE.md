@@ -16,7 +16,7 @@
 ## 2. Checklist to fix "URL unknown to Google"
 
 - [ ] **Set production URL**  
-  In production, set `NEXT_PUBLIC_SITE_URL` (e.g. `https://www.avdevelopment.in`). Used in sitemap, robots, canonicals, OG.
+  In production, set `NEXT_PUBLIC_SITE_URL` (e.g. `https://www.growdevelopment.in`). Used in sitemap, robots, canonicals, OG.
 
 - [ ] **Verify robots.txt**  
   Open `https://yourdomain.com/robots.txt`. It must allow `/` and show `Sitemap: https://yourdomain.com/sitemap.xml`. No typos in domain.

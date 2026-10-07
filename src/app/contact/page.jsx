@@ -111,20 +111,20 @@ export default function ContactPage() {
                   <div className="text-3xl">✉️</div>
                   <div>
                     <h3 className="font-medium text-neutral-900 mb-1">Email Us</h3>
-                    <a href="mailto:contact@avdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
-                      contact@avdevelopment.in
+                    <a href="mailto:contact@growdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
+                      contact@growdevelopment.in
 
 
                     </a>
                     <br/>
-                    <a href="mailto:sales@avdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
-                      sales@avdevelopment.in
+                    <a href="mailto:sales@growdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
+                      sales@growdevelopment.in
 
                     </a>
                                         <br/>
 
-                    <a href="mailto:support@avdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
-                      support@avdevelopment.in
+                    <a href="mailto:support@growdevelopment.in" className="text-neutral-500 hover:text-neutral-800">
+                      support@growdevelopment.in
                     </a>
                                         <br/>
 

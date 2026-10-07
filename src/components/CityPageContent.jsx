@@ -67,8 +67,8 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
             "telephone": "+918810688975",
             "email": "rajputdev1083@gmail.com",
             "sameAs": [
-              "https://www.linkedin.com/company/avdevelopment",
-              "https://www.instagram.com/avdevelopment"
+              "https://www.linkedin.com/company/growdevelopment",
+              "https://www.instagram.com/growdevelopment"
             ],
             "priceRange": "₹₹",
             "openingHours": "Mo-Su 00:00-23:59"

@@ -287,7 +287,7 @@ export default function TaxFilingPage() {
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs">
             <span className="text-neutral-700">📞 {contactNumber}</span>
             <span className="text-neutral-300">|</span>
-            <span className="text-neutral-700">📧 tax@avdevelopment.com</span>
+            <span className="text-neutral-700">📧 tax@growdevelopment.com</span>
             <span className="text-neutral-300">|</span>
             <span className="text-neutral-700">💬 WhatsApp: {contactNumber}</span>
           </div>

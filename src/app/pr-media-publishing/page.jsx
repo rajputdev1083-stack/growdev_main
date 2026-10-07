@@ -318,7 +318,7 @@ export default function PRMediaPublishingPage() {
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs">
             <span className="text-neutral-700">📞 {contactNumber}</span>
             <span className="text-neutral-300">|</span>
-            <span className="text-neutral-700">📧 pr@avdevelopment.com</span>
+            <span className="text-neutral-700">📧 pr@growdevelopment.com</span>
             <span className="text-neutral-300">|</span>
             <span className="text-neutral-700">💬 WhatsApp: {contactNumber}</span>
           </div>

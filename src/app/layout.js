@@ -103,8 +103,8 @@ export const metadata = {
     },
   },
   
-  // Canonical URL (set NEXT_PUBLIC_SITE_URL in production, e.g. https://www.avdevelopment.in)
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://www.avdevelopment.in'),
+  // Canonical URL (set NEXT_PUBLIC_SITE_URL in production, e.g. https://www.growdevelopment.in)
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://www.growdevelopment.in'),
   alternates: {
     canonical: '/',
     languages: {
@@ -118,17 +118,17 @@ export const metadata = {
   openGraph: {
     title: "Grow Development - India's Leading Digital Agency",
     description: "Transform your business with Grow Development: Web Development, App Development, Digital Marketing, GST & Accounting Services. Free consultation!",
-    url: 'https://avdevelopment.com',
+    url: 'https://growdevelopment.com',
     siteName: 'Grow Development',
     images: [
       {
-        url: 'https://avdevelopment.com/og-image.jpg',
+        url: 'https://growdevelopment.com/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Grow Development - Digital Agency India',
       },
       {
-        url: 'https://avdevelopment.com/og-image-square.jpg',
+        url: 'https://growdevelopment.com/og-image-square.jpg',
         width: 600,
         height: 600,
         alt: 'Grow Development Services',
@@ -146,10 +146,10 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Grow Development | Web Development & Digital Marketing',
     description: 'Premium digital services in India: Web Development, App Development, SEO, GST & More. 1000+ happy clients!',
-    siteId: '@avdevelopment',
-    creator: '@avdevelopment',
-    creatorId: '@avdevelopment',
-    images: ['https://avdevelopment.com/twitter-image.jpg'],
+    siteId: '@growdevelopment',
+    creator: '@growdevelopment',
+    creatorId: '@growdevelopment',
+    images: ['https://growdevelopment.com/twitter-image.jpg'],
   },
   
   // Icons with updated paths
@@ -326,7 +326,7 @@ export default function RootLayout({ children }) {
         <meta name="facebook-domain-verification" content="your-facebook-verification-code" />
         
         {/* LinkedIn */}
-        <meta name="linkedin:owner" content="urn:li:company:avdevelopment" />
+        <meta name="linkedin:owner" content="urn:li:company:growdevelopment" />
         
         {/* RSS Feed */}
         <link rel="alternate" type="application/rss+xml" title="RSS Feed for Grow Development" href="/feed.xml" />
@@ -350,17 +350,17 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "@id": "https://avdevelopment.com/#organization",
+              "@id": "https://growdevelopment.com/#organization",
               "name": "Grow Development",
-              "url": "https://avdevelopment.com",
-              "logo": "https://avdevelopment.com/apple-touch-icon.png",
+              "url": "https://growdevelopment.com",
+              "logo": "https://growdevelopment.com/apple-touch-icon.png",
               "sameAs": [
-                "https://www.facebook.com/avdevelopment",
-                "https://www.instagram.com/avdevelopment",
-                "https://www.linkedin.com/company/avdevelopment",
-                "https://twitter.com/avdevelopment",
-                "https://www.youtube.com/@avdevelopment",
-                "https://www.pinterest.com/avdevelopment"
+                "https://www.facebook.com/growdevelopment",
+                "https://www.instagram.com/growdevelopment",
+                "https://www.linkedin.com/company/growdevelopment",
+                "https://twitter.com/growdevelopment",
+                "https://www.youtube.com/@growdevelopment",
+                "https://www.pinterest.com/growdevelopment"
               ],
               "contactPoint": [
                 {
@@ -407,18 +407,18 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "@id": "https://avdevelopment.com/#website",
-              "url": "https://avdevelopment.com",
+              "@id": "https://growdevelopment.com/#website",
+              "url": "https://growdevelopment.com",
               "name": "Grow Development",
               "description": "India's leading digital agency for web development, digital marketing, and business solutions.",
               "publisher": {
-                "@id": "https://avdevelopment.com/#organization"
+                "@id": "https://growdevelopment.com/#organization"
               },
               "potentialAction": {
                 "@type": "SearchAction",
                 "target": {
                   "@type": "EntryPoint",
-                  "urlTemplate": "https://avdevelopment.com/search?q={search_term_string}"
+                  "urlTemplate": "https://growdevelopment.com/search?q={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
               }
@@ -434,9 +434,9 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              "@id": "https://avdevelopment.com/#localbusiness",
+              "@id": "https://growdevelopment.com/#localbusiness",
               "name": "Grow Development",
-              "image": "https://avdevelopment.com/apple-touch-icon.png",
+              "image": "https://growdevelopment.com/apple-touch-icon.png",
               "priceRange": "₹₹",
               "telephone": "+91-8810688975",
               "email": "rajputdev1083@gmail.com",

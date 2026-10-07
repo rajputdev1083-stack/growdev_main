@@ -227,7 +227,7 @@ export default function CustomSupportPage() {
           <div className="flex flex-wrap items-center justify-center gap-6 text-sm">
             <span className="text-neutral-700">📞 {contactNumber}</span>
             <span className="text-neutral-300">|</span>
-            <span className="text-neutral-700">📧 support@avdevelopment.com</span>
+            <span className="text-neutral-700">📧 support@growdevelopment.com</span>
             <span className="text-neutral-300">|</span>
             <span className="text-neutral-700">💬 WhatsApp: {contactNumber}</span>
           </div>

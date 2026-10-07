@@ -628,7 +628,7 @@ export default function WebDevelopmentPage() {
           "provider": {
             "@type": "Organization",
             "name": "GR Development",
-            "url": "https://avdevelopment.com"
+            "url": "https://growdevelopment.com"
           },
           "offers": {
             "@type": "AggregateOffer",

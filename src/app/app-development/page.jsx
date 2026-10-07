@@ -773,7 +773,7 @@ export default function AppDevelopmentPage() {
           "provider": {
             "@type": "Organization",
             "name": "Grow Development",
-            "url": "https://avdevelopment.com"
+            "url": "https://growdevelopment.com"
           },
           "offers": {
             "@type": "AggregateOffer",
