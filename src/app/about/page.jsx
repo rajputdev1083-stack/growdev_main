@@ -5,7 +5,7 @@ import { services, cities } from "@/data/cityData";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "AboutGrow Development | India's Premier Digital Agency",
+  title: "About Grow Development | India's Premier Digital Agency",
   description: "Learn about AV Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
   keywords: [
     "about Grow Development",
@@ -13,7 +13,7 @@ export const metadata = {
     "web development company history",
     "best digital agency team",
     "IT company founders",
-    "Ankit Roy digital agency",
+    "Dev Rajput digital agency",
     "AV Development team",
     "digital marketing experts India",
     "web development professionals",
@@ -30,10 +30,9 @@ export const metadata = {
 export default function AboutPage() {
   
   const teamMembers = [
-    { name: "Ankit Roy", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/ankit-roy.jpg" },
-    { name: "Priya Sharma", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/priya-sharma.jpg" },
-    { name: "Rahul Verma", role: "Lead Developer", expertise: "Web & App Development", image: "/team/rahul-verma.jpg" },
-    { name: "Neha Gupta", role: "Creative Director", expertise: "UI/UX & Branding", image: "/team/neha-gupta.jpg" },
+    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
+    { name: "Dhiraj Sing", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
+    { name: "Ankit Singh", role: "Lead Developer", expertise: "Web & App Development", image: "/team/ankitsir.png" },
   ];
 
   const milestones = [
