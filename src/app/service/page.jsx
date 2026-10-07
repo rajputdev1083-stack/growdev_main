@@ -107,7 +107,7 @@ export default function ServicesPage() {
             {/* Minimal Stats */}
             <div className="flex gap-16 mt-16 pt-16 border-t border-neutral-200">
               <div>
-                <div className="font-['Inter'] text-3xl text-neutral-900">25+</div>
+                <div className="font-['Inter'] text-3xl text-neutral-900">400+</div>
                 <div className="text-xs text-neutral-400 mt-2 tracking-wider">SERVICES</div>
               </div>
               <div>
@@ -115,7 +115,7 @@ export default function ServicesPage() {
                 <div className="text-xs text-neutral-400 mt-2 tracking-wider">RATING</div>
               </div>
               <div>
-                <div className="font-['Inter'] text-3xl text-neutral-900">500+</div>
+                <div className="font-['Inter'] text-3xl text-neutral-900">200+</div>
                 <div className="text-xs text-neutral-400 mt-2 tracking-wider">CLIENTS</div>
               </div>
             </div>

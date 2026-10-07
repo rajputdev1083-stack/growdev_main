@@ -163,9 +163,9 @@ export const NavbarLogo = () => {
   href="/"
   className="flex items-center gap-2 px-2 py-1"
 >
-  <img src="/logo.jpg" alt="logo" width={50} height={30} />
+  <img src="/logos.png" alt="logo" width={50} height={30} />
   <span className="font-medium text-black dark:text-white">
-    AV Development
+    Grow Development
   </span>
 </Link>
   );

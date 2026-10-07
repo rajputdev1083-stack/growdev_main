@@ -36,7 +36,7 @@ const SCHEMA = {
   description:
     "We build high-performance software and scale your business with cutting-edge digital marketing strategies.",
   url: "https://yourwebsite.com",
-  telephone: "+919718659236",
+  telephone: "+918810688975",
   email: "contact@yourwebsite.com",
   address: {
     "@type": "PostalAddress",

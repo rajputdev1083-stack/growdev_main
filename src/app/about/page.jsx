@@ -5,23 +5,23 @@ import { services, cities } from "@/data/cityData";
 import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
-  title: "About Grow Development | India's Premier Digital Agency",
-  description: "Learn about Grow Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
+  title: "AboutGrow Development | India's Premier Digital Agency",
+  description: "Learn about AV Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
   keywords: [
     "about Grow Development",
     "digital agency India",
     "web development company history",
     "best digital agency team",
     "IT company founders",
-    "Dev Rajput digital agency",
-    "Grow Development team",
+    "Ankit Roy digital agency",
+    "AV Development team",
     "digital marketing experts India",
     "web development professionals",
     "GST consultants team"
   ].join(", "),
   
   openGraph: {
-    title: "About Grow Development - Our Story & Team",
+    title: "About AV Development - Our Story & Team",
     description: "Meet the team behind India's fastest growing digital agency. 5+ years of excellence in web development, marketing & business solutions.",
     images: ['/about-og-image.jpg'],
   },
@@ -30,9 +30,10 @@ export const metadata = {
 export default function AboutPage() {
   
   const teamMembers = [
-    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
-    { name: "Dhiraj Singh", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
-    { name: "Ankit Roy", role: "Lead Developer", expertise: "Web & App Development", image:  "/team/ankitsir.png" },
+    { name: "Ankit Roy", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/ankit-roy.jpg" },
+    { name: "Priya Sharma", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/priya-sharma.jpg" },
+    { name: "Rahul Verma", role: "Lead Developer", expertise: "Web & App Development", image: "/team/rahul-verma.jpg" },
+    { name: "Neha Gupta", role: "Creative Director", expertise: "UI/UX & Branding", image: "/team/neha-gupta.jpg" },
   ];
 
   const milestones = [
@@ -114,7 +115,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-6 text-neutral-500 font-['Georgia'] leading-relaxed">
                 <p>
-                  Founded in 2024 by Dev  , Grow Development started as a small team of 
+                  Founded in 2024 by Ankit and Gautam , Grow Development started as a small team of 
                   passionate developers with a simple vision: to make premium digital services 
                   accessible to businesses across India.
                 </p>
@@ -361,7 +362,7 @@ export default function AboutPage() {
             Ready to work with us?
           </h2>
           <p className="text-neutral-500 max-w-2xl mx-auto mb-10">
-            Join 100+ happy clients who've transformed their businesses with Grow Development
+            Join 100+ happy clients who've transformed their businesses with AV Development
           </p>
           <Link
             href="/contact"

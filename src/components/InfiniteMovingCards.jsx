@@ -114,7 +114,7 @@ export default function TestimonialsSection() {
             className="flex justify-center gap-16 mt-24"
           >
             {[
-              { num: "20+", label: "CLIENTS" },
+              { num: "200+", label: "CLIENTS" },
               { num: "4.9", label: "RATING" },
               { num: "30+", label: "PROJECTS" },
             ].map((s, i) => (
