@@ -255,7 +255,7 @@ export default function RootLayout({ children }) {
         <link rel="dns-prefetch" href="https://www.linkedin.com" />
         
         {/* Preload critical assets */}
-        <link rel="preload" href="/logo.png" as="image" />
+        <link rel="preload" href="/logos.png" as="image" />
         <link rel="preload" href="/favicon-96x96.png" as="image" />
         
         {/* Geo Tags for Local SEO */}
@@ -357,8 +357,8 @@ export default function RootLayout({ children }) {
               "sameAs": [
                 "https://www.facebook.com/growdevelopment",
                 "https://www.instagram.com/growdevelopment",
-                "https://www.linkedin.com/company/growdevelopment",
-                "https://twitter.com/growdevelopment",
+                "https://www.linkedin.com/in/devender-singh20 growdevelopment",
+                "https://x.com/GROWDEV_/growdevelopment",
                 "https://www.youtube.com/@growdevelopment",
                 "https://www.pinterest.com/growdevelopment"
               ],

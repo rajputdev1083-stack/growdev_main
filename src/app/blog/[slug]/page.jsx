@@ -97,7 +97,7 @@ export default async function BlogPostPage({ params }) {
       url: SITE_URL,
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/logo.png`,
+        url: `${SITE_URL}/logos.png`,
         width: 600,
         height: 60,
       },
