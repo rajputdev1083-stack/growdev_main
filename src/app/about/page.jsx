@@ -30,9 +30,9 @@ export const metadata = {
 export default function AboutPage() {
   
   const teamMembers = [
-    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
-    { name: "Dhiraj Sing", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
-    { name: "Ankit Singh", role: "Lead Developer", expertise: "Web & App Development", image: "/team/ankitsir.png" },
+    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "dev.png" },
+    { name: "Dhiraj Sing", role: "Head of Marketing", expertise: "Digital Strategy", image: "Dhiraj.png" },
+    { name: "Ankit Singh", role: "Lead Developer", expertise: "Web & App Development", image: "ankitsir.png" },
   ];
 
   const milestones = [
