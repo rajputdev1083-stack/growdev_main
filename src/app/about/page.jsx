@@ -6,7 +6,7 @@ import CityLinks from "@/utlls/CityLinks";
 
 export const metadata = {
   title: "About Grow Development | India's Premier Digital Agency",
-  description: "Learn about AV Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
+  description: "Learn about Grow Development - India's trusted digital agency with 5+ years of experience, 1000+ happy clients, and 50+ experts. We deliver web development, marketing, and business solutions.",
   keywords: [
     "about Grow Development",
     "digital agency India",
@@ -14,14 +14,14 @@ export const metadata = {
     "best digital agency team",
     "IT company founders",
     "Dev Rajput digital agency",
-    "AV Development team",
+    "Grow Development team",
     "digital marketing experts India",
     "web development professionals",
     "GST consultants team"
   ].join(", "),
   
   openGraph: {
-    title: "About AV Development - Our Story & Team",
+    title: "About Grow Development - Our Story & Team",
     description: "Meet the team behind India's fastest growing digital agency. 5+ years of excellence in web development, marketing & business solutions.",
     images: ['/about-og-image.jpg'],
   },
@@ -30,14 +30,14 @@ export const metadata = {
 export default function AboutPage() {
   
   const teamMembers = [
-    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "dev.png" },
-    { name: "Dhiraj Sing", role: "Head of Marketing", expertise: "Digital Strategy", image: "Dhiraj.png" },
-    { name: "Ankit Singh", role: "Lead Developer", expertise: "Web & App Development", image: "ankitsir.png" },
+    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
+    { name: "Dhiraj Singh", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
+    { name: "Ankit Singh", role: "Lead Developer", expertise: "Web & App Development", image: "/team/ankitsir.png" },
   ];
 
   const milestones = [
     { year: "2019", title: "The Beginning", description: "Grow Development started with a vision to transform digital landscape in India." },
-    { year: "2020", title: "First 100 Clients", description: "Reached 100+ happy clients within first year of operation." },
+    { year: "2020", title: "First 200 Clients", description: "Reached 200+ happy clients within first year of operation." },
     { year: "2021", title: "Team Expansion", description: "Grew to 20+ experts and expanded service offerings." },
     { year: "2022", title: "Pan-India Presence", description: "Started serving clients across 50+ cities in India." },
     { year: "2023", title: "1000+ Milestone", description: "Celebrated 1000+ successful projects and 50+ team members." },
@@ -114,7 +114,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-6 text-neutral-500 font-['Georgia'] leading-relaxed">
                 <p>
-                  Founded in 2024 by Ankit and Gautam , Grow Development started as a small team of 
+                  Founded in 2024 by Dev Rajput , Grow Development started as a small team of 
                   passionate developers with a simple vision: to make premium digital services 
                   accessible to businesses across India.
                 </p>

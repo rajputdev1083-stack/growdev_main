@@ -337,7 +337,7 @@ export default function GoogleAdsPage() {
               View Case Studies
             </Link>
           </div>
-          <p className="text-neutral-500 text-sm mt-6">📞 Call: +91 97186 59236</p>
+          <p className="text-neutral-500 text-sm mt-6">📞 Call: +91 8810688975</p>
         </div>
       </section>
 

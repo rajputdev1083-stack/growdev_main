@@ -568,9 +568,9 @@ export default function GraphicDesignPage() {
              
           </div>
           <div className="mt-6 flex flex-wrap justify-center gap-4 text-sm text-neutral-500">
-            <span>📞 Call: +91 97186 59236</span>
+            <span>📞 Call: +91 8810688975</span>
             <span>📧 design@growdevelopment.com</span>
-            <span>💬 WhatsApp: +91 97186 59236</span>
+            <span>💬 WhatsApp: +91 8810688975</span>
           </div>
           <p className="text-xs text-neutral-700 mt-4">*2 free concepts valid for first-time clients • No obligation to purchase</p>
         </div>

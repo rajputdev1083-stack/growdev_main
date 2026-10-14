@@ -137,8 +137,8 @@ export const metadata = {
     locale: 'en_IN',
     type: 'website',
     countryName: 'India',
-    emails: ['ankitroy5575@gmail.com'],
-    phoneNumbers: ['+919718659236'],
+    emails: ['rajputdev1083@gmail.com'],
+    phoneNumbers: ['+918810688975'],
   },
   
   // Twitter Cards
@@ -188,7 +188,7 @@ export const metadata = {
     yandex: 'your-yandex-verification-code',
     yahoo: 'your-yahoo-verification-code',
     bing: 'your-bing-verification-code',
-    me: 'ankitroy5575@gmail.com',
+    me: 'rajputdev1083@gmail.com',
   },
   
   // Category

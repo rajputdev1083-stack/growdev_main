@@ -311,7 +311,7 @@ export default function ServicesPage() {
             </Link>
             
             <p className="text-neutral-500 text-sm mt-12 font-light">
-              Or call us directly: +91 97186 59236
+              Or call us directly: +91 8810688975
             </p>
           </motion.div>
         </div>

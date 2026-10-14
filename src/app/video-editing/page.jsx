@@ -142,7 +142,7 @@ export default function VideoEditingPage() {
           <Link href="/contact" className="px-6 py-2 bg-white text-neutral-900 text-sm rounded inline-block">
             Send Your Video
           </Link>
-          <p className="text-neutral-500 text-xs mt-4">📞 Call: +91 97186 59236</p>
+          <p className="text-neutral-500 text-xs mt-4">📞 Call: +91 8810688975</p>
         </div>
       </section>
 

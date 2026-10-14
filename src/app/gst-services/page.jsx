@@ -381,11 +381,11 @@ export default function GSTServicesPage() {
             <Link href="/contact" className="px-6 py-2 bg-white text-neutral-900 text-sm rounded hover:bg-neutral-100">
               Start Now
             </Link>
-            <Link href="tel:+919718659236" className="px-6 py-2 border border-white text-white text-sm rounded hover:bg-white hover:text-neutral-900">
+            <Link href="tel:+918810688975" className="px-6 py-2 border border-white text-white text-sm rounded hover:bg-white hover:text-neutral-900">
               Call Us
             </Link>
           </div>
-          <p className="text-xs text-neutral-700 mt-4">📞 +91 97186 59236 • 📧 gst@growdevelopment.com</p>
+          <p className="text-xs text-neutral-700 mt-4">📞 +91 8810688975 • 📧 gst@growdevelopment.com</p>
         </div>
       </section>
 
