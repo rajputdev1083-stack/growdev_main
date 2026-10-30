@@ -414,7 +414,7 @@ export default function ContactPage() {
             <span>Start WhatsApp Chat</span>
           </a>
           <p className="text-sm text-neutral-400 mt-4">
-            or call us directly: <a href="tel:+919718659236" className="text-neutral-600 hover:text-neutral-900">+91 9718659236</a>
+            or call us directly: <a href="tel:+919718659236" className="text-neutral-600 hover:text-neutral-900">+91 8810688975</a>
           </p>
         </div>
 

@@ -372,7 +372,7 @@ export default function RootLayout({ children }) {
                 },
                 {
                   "@type": "ContactPoint",
-                  "telephone": "+91-9718659236",
+                  "telephone": "+91-8810688975",
                   "contactType": "sales",
                   "areaServed": "IN",
                   "availableLanguage": ["English", "Hindi"]

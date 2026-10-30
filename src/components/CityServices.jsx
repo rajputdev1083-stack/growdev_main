@@ -115,10 +115,10 @@ export default function CityPage({ city }) {
             Get Consultation
           </Link>
           <Link
-            href={`tel:+919718659236`}
+            href={`tel:+918810688975`}
             className="px-8 py-4 border border-neutral-200 text-neutral-700 text-sm font-medium tracking-wide hover:border-neutral-300 hover:bg-neutral-50 transition-colors"
           >
-            Call +91 9718659236
+            Call +91 8810688975
           </Link>
         </div>
       </div>
@@ -206,7 +206,7 @@ export default function CityPage({ city }) {
             <div className="bg-white/5 backdrop-blur-sm rounded-xl p-6 border border-white/10">
               <h3 className="text-lg font-semibold mb-3">How can I get started?</h3>
               <p className="text-gray-400">
-                Call us at +91 9718659236 or fill our contact form for a free consultation.
+                Call us at +91 8810688975 or fill our contact form for a free consultation.
               </p>
             </div>
           </div>
