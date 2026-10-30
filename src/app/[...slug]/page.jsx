@@ -110,8 +110,8 @@ export async function generateMetadata({ params }) {
     const service = getServiceBySlug(serviceSlug);
     if (!city || !service) return {};
 
-    const title = `${service.name} in ${city.name} | AV Development`;
-    const description = `Get ${service.name} in ${city.name}. AV Development offers premium ${service.name} and digital solutions in ${city.name}. Free consultation.`;
+    const title = `${service.name} in ${city.name} | Grow Development`;
+    const description = `Get ${service.name} in ${city.name}. Grow Development offers premium ${service.name} and digital solutions in ${city.name}. Free consultation.`;
     const canonical = `${SITE_URL}/${citySlug}/${serviceSlug}`;
 
     return {
@@ -123,7 +123,7 @@ export async function generateMetadata({ params }) {
         `best ${service.name} ${city.name}`,
       ],
       openGraph: {
-        title: `${service.name} in ${city.name} - AV Development`,
+        title: `${service.name} in ${city.name} - Grow Development`,
         description,
         url: canonical,
         siteName: SITE_NAME,

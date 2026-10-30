@@ -361,7 +361,7 @@ export default function AboutPage() {
             Ready to work with us?
           </h2>
           <p className="text-neutral-500 max-w-2xl mx-auto mb-10">
-            Join 100+ happy clients who've transformed their businesses with AV Development
+            Join 100+ happy clients who've transformed their businesses with Grow Development
           </p>
           <Link
             href="/contact"

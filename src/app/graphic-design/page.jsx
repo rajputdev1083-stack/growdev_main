@@ -233,7 +233,7 @@ const tools = [
 
 const testimonials = [
   {
-    quote: "AV Development created our complete brand identity. The logo and branding guidelines helped us look professional from day one.",
+    quote: "Grow Development created our complete brand identity. The logo and branding guidelines helped us look professional from day one.",
     author: "Priya Sharma",
     company: "The Urban Chai",
     location: "Delhi"
