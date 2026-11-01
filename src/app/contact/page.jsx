@@ -436,7 +436,7 @@ export default function ContactPage() {
           "mainEntity": {
             "@type": "Organization",
             "name": "Grow Development",
-            "telephone": "+919718659236",
+            "telephone": "+918810688975",
             "email": "rajputdev1083@gmail.com",
             "contactPoint": {
               "@type": "ContactPoint",
