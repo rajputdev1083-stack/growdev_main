@@ -1,7 +1,8 @@
- "use client";
+"use client";
 import { useEffect } from "react";
 import { motion, stagger, useAnimate } from "motion/react";
 import { cn } from "@/lib/utils3";
+import AeroShards from "@/components/ui/aero-shards";
 
 export const TextGenerateEffect = ({
   words,
@@ -47,8 +48,19 @@ export const TextGenerateEffect = ({
   };
 
   return (
-    <div className={cn("font-bold bg-black min-h-screen flex items-center justify-center", className)}>
-      <div className="px-6 text-center">
+    <div
+      className={cn(
+        "relative font-bold bg-black min-h-screen flex items-center justify-center overflow-hidden",
+        className
+      )}
+    >
+      {/* Background animation */}
+      <div className="absolute inset-0 z-0">
+        <AeroShards />
+      </div>
+
+      {/* Text (animation ke upar) */}
+      <div className="relative z-10 px-6 text-center pointer-events-none">
         <div className="text-white text-2xl sm:text-4xl md:text-5xl leading-snug tracking-wide">
           {renderWords()}
         </div>
