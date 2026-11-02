@@ -1,5 +1,5 @@
 "use client";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { motion, stagger, useAnimate } from "motion/react";
 import { cn } from "@/lib/utils3";
 import AeroShards from "@/components/ui/aero-shards";
@@ -12,6 +12,17 @@ export const TextGenerateEffect = ({
 }) => {
   const [scope, animate] = useAnimate();
   let wordsArray = words.split(" ");
+
+  // Sirf desktop (768px ya usse badi screen) par animation dikhane ke liye
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  useEffect(() => {
+    const mq = window.matchMedia("(min-width: 768px)");
+    const update = () => setIsDesktop(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
 
   useEffect(() => {
     animate(
@@ -54,10 +65,12 @@ export const TextGenerateEffect = ({
         className
       )}
     >
-      {/* Background animation */}
-      <div className="absolute inset-0 z-0">
-        <AeroShards />
-      </div>
+      {/* Background animation: sirf desktop par */}
+      {isDesktop && (
+        <div className="absolute inset-0 z-0">
+          <AeroShards />
+        </div>
+      )}
 
       {/* Text (animation ke upar) */}
       <div className="relative z-10 px-6 text-center pointer-events-none">
