@@ -28,12 +28,28 @@ export const metadata = {
 };
 
 export default function AboutPage() {
+
   
-  const teamMembers = [
-    { name: "Dev Rajput", role: "Founder & CEO", expertise: "Full Stack Development", image: "/team/dev.png" },
-    { name: "Dhiraj Singh", role: "Head of Marketing", expertise: "Digital Strategy", image: "/team/Dhiraj.png" },
-    { name: "Mahak ", role: "Lead Developer", expertise: "Web & App Development", image: "/team/ankitsir.png" },
-  ];
+    const teamMembers = [
+  {
+    name: "Dev Rajput",
+    role: "Founder & CEO",
+    expertise: "Full Stack Development",
+    image: "/dev2023.jpeg",
+  },
+  {
+    name: "Mahak",
+    role: "Head of Marketing",
+    expertise: "Digital Strategy",
+    image: "/mahak.jpeg"
+  },
+  {
+    name: "Dhiraj",
+    role: "Lead Developer",
+    expertise: "Web & App Development",
+    image: "/Dhiraj.png",
+  },
+];
 
   const milestones = [
     { year: "2019", title: "The Beginning", description: "Grow Development started with a vision to transform digital landscape in India." },
@@ -214,35 +230,67 @@ export default function AboutPage() {
       </section>
 
       {/* Team Section */}
-      <section className="py-24 bg-neutral-50">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <span className="text-sm font-medium tracking-wider text-neutral-400 uppercase">
-              the minds behind
-            </span>
-            <h2 className="font-['Inter'] text-4xl md:text-5xl font-light text-neutral-900 mt-4">
-              Meet our experts
-            </h2>
-            <p className="text-neutral-500 max-w-2xl mx-auto mt-4">
-              Passionate professionals dedicated to your success
-            </p>
+      
+{/* Team Section */}
+<section className="py-24 bg-neutral-50">
+  <div className="max-w-7xl mx-auto px-6 lg:px-8">
+
+    <div className="text-center mb-16">
+      <span className="text-sm font-medium tracking-wider text-neutral-400 uppercase">
+        the minds behind
+      </span>
+
+      <h2 className="font-['Inter'] text-4xl md:text-5xl font-light text-neutral-900 mt-4">
+        Meet our experts
+      </h2>
+
+      <p className="text-neutral-500 max-w-2xl mx-auto mt-4">
+        Passionate professionals dedicated to your success
+      </p>
+    </div>
+
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12">
+
+      {teamMembers.map((member, index) => (
+        <div key={index} className="text-center group">
+
+          <div className="relative w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden bg-neutral-200">
+
+            {member.image ? (
+              <Image
+                src={member.image}
+                alt={`${member.name} - ${member.role}`}
+                fill
+                sizes="160px"
+                className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
+              />
+            ) : (
+              <div className="w-full h-full flex items-center justify-center text-4xl font-medium text-neutral-500">
+                {member.name.charAt(0)}
+              </div>
+            )}
+
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {teamMembers.map((member, index) => (
-              <div key={index} className="text-center group">
-                <div className="w-32 h-32 mx-auto mb-4 rounded-full bg-neutral-200 overflow-hidden">
-                  {/* Placeholder for team photos */}
-                  <div className="w-full h-full bg-gradient-to-b from-neutral-300 to-neutral-400"></div>
-                </div>
-                <h3 className="font-medium text-neutral-900 text-lg">{member.name}</h3>
-                <p className="text-sm text-neutral-500 mb-2">{member.role}</p>
-                <p className="text-xs text-neutral-400">{member.expertise}</p>
-              </div>
-            ))}
-          </div>
+          <h3 className="font-medium text-neutral-900 text-xl">
+            {member.name}
+          </h3>
+
+          <p className="text-sm text-neutral-500 mt-2">
+            {member.role}
+          </p>
+
+          <p className="text-xs text-neutral-400 mt-2">
+            {member.expertise}
+          </p>
+
         </div>
-      </section>
+      ))}
+
+    </div>
+  </div>
+</section>
+
 
       {/* Services Overview */}
       <section className="py-24 bg-white">
