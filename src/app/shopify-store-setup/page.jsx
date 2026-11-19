@@ -216,7 +216,7 @@ export default function ShopifyStoreSetupPage() {
               View Examples
             </Link>
           </div>
-          <p className="text-neutral-500 text-sm mt-6">📞 Call us: +91 8810688975</p>
+          <p className="text-neutral-500 text-sm mt-6">📞 Call us: +91 9310616937</p>
         </div>
       </section>
 

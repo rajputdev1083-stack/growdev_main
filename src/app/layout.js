@@ -138,7 +138,7 @@ export const metadata = {
     type: 'website',
     countryName: 'India',
     emails: ['rajputdev1083@gmail.com'],
-    phoneNumbers: ['+918810688975'],
+    phoneNumbers: ['+91 9310616937'],
   },
   
   // Twitter Cards
@@ -365,14 +365,14 @@ export default function RootLayout({ children }) {
               "contactPoint": [
                 {
                   "@type": "ContactPoint",
-                  "telephone": "+91-8810688975",
+                  "telephone": "+91-9310616937",
                   "contactType": "customer service",
                   "areaServed": "IN",
                   "availableLanguage": ["English", "Hindi"]
                 },
                 {
                   "@type": "ContactPoint",
-                  "telephone": "+91-8810688975",
+                  "telephone": "+91-9310616937",
                   "contactType": "sales",
                   "areaServed": "IN",
                   "availableLanguage": ["English", "Hindi"]
@@ -438,7 +438,7 @@ export default function RootLayout({ children }) {
               "name": "Grow Development",
               "image": "https://growdevelopment.com/apple-touch-icon.png",
               "priceRange": "₹₹",
-              "telephone": "+91-8810688975",
+              "telephone": "+91-9310616937",
               "email": "rajputdev1083@gmail.com",
               "address": {
                 "@type": "PostalAddress",

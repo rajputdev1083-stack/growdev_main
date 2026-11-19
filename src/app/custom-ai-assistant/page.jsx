@@ -123,7 +123,7 @@ const faqs = [
   { q: "How much does hosting cost?", a: "Included in first year. Renewal from ₹12,000/year for basic." }
 ];
 
-const contactNumber = "+918810688975";
+const contactNumber = "+919310616937";
 
 export default function CustomAIAssistantPage() {
   return (

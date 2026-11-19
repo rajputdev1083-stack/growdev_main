@@ -29,7 +29,7 @@ const SCHEMA = {
   description:
     "We build high-performance software and scale your business with cutting-edge digital marketing strategies.",
   url: "https://yourwebsite.com",
-  telephone: "+918810688975",
+  telephone: "+919310616937",
   email: "contact@yourwebsite.com",
   address: {
     "@type": "PostalAddress",
@@ -385,7 +385,7 @@ function FluxStormBackground({ bg = "#120f17" }) {
 // ─── Component ───────────────────────────────────────────────────────────────
 
 export function HeroSection() {
-  const phone = "+918810688975";
+  const phone = "+919310616937";
 
   return (
     <>

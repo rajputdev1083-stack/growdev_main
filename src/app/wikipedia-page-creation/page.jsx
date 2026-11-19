@@ -116,7 +116,7 @@ const faqs = [
   { q: "Do I own the page?", a: "Wikipedia content is freely licensed. You don't 'own' it, but we maintain it for you." }
 ];
 
-const contactNumber = "+918810688975";
+const contactNumber = "+919310616937";
 
 export default function WikipediaPageCreationPage() {
   return (

@@ -64,7 +64,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
               "@type": "City",
               "name": cityName
             },
-            "telephone": "+918810688975",
+            "telephone": "+919310616937",
             "email": "rajputdev1083@gmail.com",
             "sameAs": [
               "https://www.linkedin.com/company/growdevelopment",
@@ -102,7 +102,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
                 <span className="px-4 py-2 bg-neutral-900 text-white text-sm rounded-full">Starting ₹15,000</span>
                 <span className="px-4 py-2 bg-neutral-800 text-white text-sm rounded-full">50+ Projects in {cityName}</span>
                 <span className="px-4 py-2 bg-neutral-700 text-white text-sm rounded-full">On-site Support</span>
-                <span className="px-4 py-2 bg-neutral-600 text-white text-sm rounded-full">+91 8810688975</span>
+                <span className="px-4 py-2 bg-neutral-600 text-white text-sm rounded-full">+91 9310616937</span>
               </div>
             </div>
           </div>
@@ -255,7 +255,7 @@ export default function CityPageContent({ stateSlug, stateName, citySlug, cityNa
                 View All {stateName} Cities
               </Link>
             </div>
-            <p className="text-xs text-neutral-700 mt-4">📞 Call or WhatsApp: +91 8810688975</p>
+            <p className="text-xs text-neutral-700 mt-4">📞 Call or WhatsApp: +91 9310616937</p>
           </div>
         </section>
       </main>

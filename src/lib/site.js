@@ -3,7 +3,7 @@ process.env.NEXT_PUBLIC_SITE_URL || "https://www.growdevelopment.in";
 
 export const SITE_NAME = "Grow Development";
 
-export const CONTACT_PHONE = "+918810688975";
+export const CONTACT_PHONE = "+919310616937";
 
 export const CONTACT_EMAIL = "info@growdevelopment.in";
 

@@ -332,7 +332,7 @@ export default function SEOPage() {
               View Case Studies
             </Link>
           </div>
-          <p className="text-neutral-500 text-sm mt-6">📞 Call: +91 8810688975</p>
+          <p className="text-neutral-500 text-sm mt-6">📞 Call: +91 9310616937</p>
         </div>
       </section>
 
